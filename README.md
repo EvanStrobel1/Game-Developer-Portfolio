@@ -7,9 +7,10 @@ I am a hobbyist game developer experienced with numerous languages, engines and 
 ## Engines
 
 <img align="left" alt="Unity" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Unreal Engine" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+![Alt text](ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png)
 <br />
 <br />
+
 
 
 
