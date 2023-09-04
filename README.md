@@ -6,8 +6,14 @@ I am a hobbyist game developer experienced with numerous languages, engines and 
 
 ## Engines
 
-<img align="left" alt="Unity" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-![Alt text](ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png)
+<p height=50px>
+  
+![PngItem_5356083](https://github.com/EvanStrobel1/Game-Developer-Portfolio/assets/114700491/32ac5212-e1be-407f-b5ab-597bb81c0461)
+
+</p>
+
+![ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f](https://github.com/EvanStrobel1/Game-Developer-Portfolio/assets/114700491/b03a6041-6913-4a10-bc99-a9acbb8e4aea)
+
 <br />
 <br />
 
